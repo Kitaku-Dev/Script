@@ -1,5 +1,5 @@
 local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/naypramx/Ui__Project/Script/XeNonUi",true))()
-local Win = library:CreateWindow("Crack Hub v2 | Marvellous Playground ,Enum.KeyCode.RightControl)
+local Win = library:CreateWindow("Crack Hub v2 | Marvellous Playground" ,Enum.KeyCode.RightControl)
 local watermark = library:CreateWatermark("Crack Hub V2 ‹Premium Edition›")
 local Main = Win:CreateTab("Main")
 
